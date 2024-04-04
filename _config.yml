@@ -3,8 +3,8 @@ description: > # this means to ignore newlines until "show_excerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "/"
-url: https://ehdrms2034.github.io # change this URL, this is needed for generating right sitemap
+baseurl: "/TESTS"
+url: https://ehdrms2034.github.io/ # change this URL, this is needed for generating right sitemap
 
 permalink: "/blog/:title/"
 
@@ -14,7 +14,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-minifier
 
-css_dir: "assets/css" # defaults to "css"
+css_dir: "/assets/css" # defaults to "css"
 
 highlighter: rouge
 

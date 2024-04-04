@@ -14,7 +14,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-minifier
 
-css_dir: "/assets/css" # defaults to "css"
+css_dir: "/TESTS/assets/css" # defaults to "css"
 
 highlighter: rouge
 
